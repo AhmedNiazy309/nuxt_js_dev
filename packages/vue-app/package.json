@@ -16,7 +16,7 @@
     "node-fetch": "^2.6.1",
     "ufo": "^0.5.4",
     "unfetch": "^4.2.0",
-    "vue": "^2.6.12",
+    "vue": "^3.5.44",
     "vue-client-only": "^2.0.0",
     "vue-meta": "^2.4.0",
     "vue-no-ssr": "^1.1.1",
