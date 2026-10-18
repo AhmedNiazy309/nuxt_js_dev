@@ -63,7 +63,7 @@
     "@nuxt/utils": "^2.14.12",
     "@nuxt/vue-renderer": "^2.14.12",
     "node-fetch": "^2.6.1",
-    "vue": "^2.6.12",
+    "vue": "^3.5.44",
     "vue-client-only": "^2.0.0",
     "vue-meta": "^2.4.0",
     "vue-no-ssr": "^1.1.1",
